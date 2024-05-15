@@ -1,0 +1,11 @@
+E:\VisualStudio\AsyncwaitOrnegi\AsyncwaitOrnegi\bin\Debug\AsyncwaitOrnegi.exe.config
+E:\VisualStudio\AsyncwaitOrnegi\AsyncwaitOrnegi\bin\Debug\AsyncwaitOrnegi.exe
+E:\VisualStudio\AsyncwaitOrnegi\AsyncwaitOrnegi\bin\Debug\AsyncwaitOrnegi.pdb
+E:\VisualStudio\AsyncwaitOrnegi\AsyncwaitOrnegi\obj\Debug\AsyncwaitOrnegi.csproj.AssemblyReference.cache
+E:\VisualStudio\AsyncwaitOrnegi\AsyncwaitOrnegi\obj\Debug\AsyncwaitOrnegi.csproj.SuggestedBindingRedirects.cache
+E:\VisualStudio\AsyncwaitOrnegi\AsyncwaitOrnegi\obj\Debug\AsyncwaitOrnegi.Form1.resources
+E:\VisualStudio\AsyncwaitOrnegi\AsyncwaitOrnegi\obj\Debug\AsyncwaitOrnegi.Properties.Resources.resources
+E:\VisualStudio\AsyncwaitOrnegi\AsyncwaitOrnegi\obj\Debug\AsyncwaitOrnegi.csproj.GenerateResource.cache
+E:\VisualStudio\AsyncwaitOrnegi\AsyncwaitOrnegi\obj\Debug\AsyncwaitOrnegi.csproj.CoreCompileInputs.cache
+E:\VisualStudio\AsyncwaitOrnegi\AsyncwaitOrnegi\obj\Debug\AsyncwaitOrnegi.exe
+E:\VisualStudio\AsyncwaitOrnegi\AsyncwaitOrnegi\obj\Debug\AsyncwaitOrnegi.pdb
